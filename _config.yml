@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-chirpy  
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,17 +14,16 @@ timezone: Asia/Karachi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Roha.Dev # the main title
+title: Roha Pathan # the main title
 
-tagline: Coding is my ninja way # it will display as the sub-title
+tagline: Hi, I'm Roha. I'm a software engineer mainly focused on data and AI # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Hi! I'm Roha, I'm a software developer interested in data and its applications. Let's build stuff!
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
-
+url: https://roha.dev
 github:
   username: row-huh # change to your github username
 
@@ -35,14 +34,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Roha Pathan
-  email: example@domain.com # change to your email address
+  email: roha.pathan125@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/rokage_125 # change to your twitter homepage
+    - https://github.com/row-huh # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/roha-pathan-687960272/
 
 google_site_verification: # fill in to your verification string
 
@@ -66,7 +65,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: [light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -74,9 +73,9 @@ theme_mode: # [light | dark]
 #
 # e.g. 'https://cdn.com'
 img_cdn:
-
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.pinimg.com/564x/26/cc/4f/26cc4f2ec693fb121ff082442cc462b5.jpg
+
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
