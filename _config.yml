@@ -16,7 +16,8 @@ timezone: Asia/Karachi
 
 title: Roha Pathan # the main title
 
-tagline: Hi, I'm Roha. I'm a software engineer mainly focused on data and AI # it will display as the sub-title
+tagline: "Hi, I'm Roha! I code, I crunch data, and I'm all about AI."
+ # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Hi! I'm Roha, I'm a software developer interested in data and its applications. Let's build stuff!
