@@ -3,6 +3,8 @@
 title: "Exploring Bias in Recruitment, an attempt to solve it -- and why it was the worst idea ever"
 date: 2025-02-26 09:08:02 -0500
 categories: [brainstorms]
+tags: [minimax, ai, alphabetapruning]     # TAG names should always be lowercase
+
 ---
 
 Employers—like everyone else—can have biases, whether they realize it or not. Subconscious bias sneaks into hiring decisions, influencing choices based on factors like age, gender, race, or culture. The problem? It moves hiring further away from being objective, increasing the chances of selecting a less qualified candidate simply due to bias. Over time, this doesn’t just affect individual job seekers—it shapes entire workplaces, limiting diversity, fresh perspectives, and overall team performance.
